@@ -28,3 +28,16 @@
       border-color: transparent
     }
   }
+
+ @media (max-width: 480px) {
+    .typing-demo {
+      font-size: 1em;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .typing-demo {
+      font-size: 1em;
+    }
+  }
+
